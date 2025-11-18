@@ -1,29 +1,105 @@
+# 👋 Hello, I'm Kimau!
+
 <div align="center">
+  
+### Data Enthusiast | Informatics Engineering Student | Lifelong Learner
 
-# Hello! I'm Kimau 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrizzkimau)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-I'm a data enthusiast with a background in **Informatics Engineering at Politeknik Caltex Riau**.  
-Currently, I'm focusing on strengthening my skills in **Python, data analytics, and data science**.
-
-Outside tech, I enjoy reading books on a wide range of topics and continuously exploring new ideas.
-
-📬 **Feel free to reach out anytime!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mrizzkimau)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=MRMaulana461&show_icons=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRMaulana461&hide=jupyter%20notebook&layout=compact" height="160" />
+```python
+class Kimau:
+    def __init__(self):
+        self.education = "Informatics Engineering @ Politeknik Caltex Riau"
+        self.focus = ["Python", "Data Analytics", "Data Science"]
+        self.interests = ["Reading", "Technology", "Continuous Learning"]
+        self.current_status = "Building data-driven solutions 📊"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing together!")
 
-<img src="https://streak-stats.demolab.com?user=MRMaulana461" height="180" />
+me = Kimau()
+me.say_hi()
+```
+
+🎓 **Education:** Politeknik Caltex Riau - Informatics Engineering  
+💡 **Currently Learning:** Advanced Python, Machine Learning, Data Visualization  
+📚 **Passion:** Exploring new ideas through books and tech communities  
+🎯 **Goal:** Transforming data into meaningful insights
 
 ---
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,github,git,vscode,mysql" />
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Kimau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+
+</div>
+
+---
+
+## 🌱 Current Focus
+
+- 📈 Deepening expertise in **Data Analytics** and **Machine Learning**
+- 🐍 Mastering **Python** for data-driven applications
+- 📊 Building interactive dashboards and visualizations
+- 🤖 Exploring **AI/ML** algorithms and their real-world applications
+- 📖 Reading and staying updated with the latest in tech
+
+---
+
+## 💼 Featured Projects
+
+<!-- Add your projects here when you have them -->
+Coming soon! Currently working on exciting data science projects. Stay tuned! 🚀
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrizzkimau)
+
+**"Data is the new oil, but insights are the refined fuel that drives innovation."**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=F85D7F&style=for-the-badge)
 
 </div>
