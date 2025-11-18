@@ -63,7 +63,7 @@ me.say_hi()
   
 ![Kimau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRMaulana461&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRMaulana461&hide=jupyter%20notebook&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRMaulana461&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRMaulana461&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
@@ -100,6 +100,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=F85D7F&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=MRMaulana461&color=F85D7F&style=for-the-badge)
 
 </div>
