@@ -64,7 +64,7 @@ me.say_hi()
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRMaulana461&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRMaulana461&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRMaulana461&hide=jupyter%20notebook&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
 </div>
 
