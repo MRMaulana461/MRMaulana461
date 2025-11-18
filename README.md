@@ -9,27 +9,17 @@
 
 ---
 
-## 🚀 About Me
+## 📊 GitHub Stats
 
-```python
-class Kimau:
-    def __init__(self):
-        self.education = "Informatics Engineering @ Politeknik Caltex Riau"
-        self.focus = ["Python", "Data Analytics", "Data Science"]
-        self.interests = ["Reading", "Technology", "Continuous Learning"]
-        self.current_status = "Building data-driven solutions 📊"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
+<div align="center">
+  
+![Kimau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRMaulana461&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-me = Kimau()
-me.say_hi()
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRMaulana461&layout=compact&hide=jupyter%20notebookt&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-🎓 **Education:** Politeknik Caltex Riau - Informatics Engineering  
-💡 **Currently Learning:** Advanced Python, Machine Learning, Data Visualization  
-📚 **Passion:** Exploring new ideas through books and tech communities  
-🎯 **Goal:** Transforming data into meaningful insights
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRMaulana461&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+
+</div>
 
 ---
 
@@ -54,21 +44,6 @@ me.say_hi()
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Kimau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRMaulana461&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRMaulana461&layout=compact&hide=jupyter%20notebookt&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRMaulana461&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
-
-</div>
-
----
-
 
 ## 📫 Let's Connect!
 
