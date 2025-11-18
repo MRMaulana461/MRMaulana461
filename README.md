@@ -69,22 +69,6 @@ me.say_hi()
 
 ---
 
-## 🌱 Current Focus
-
-- 📈 Deepening expertise in **Data Analytics** and **Machine Learning**
-- 🐍 Mastering **Python** for data-driven applications
-- 📊 Building interactive dashboards and visualizations
-- 🤖 Exploring **AI/ML** algorithms and their real-world applications
-- 📖 Reading and staying updated with the latest in tech
-
----
-
-## 💼 Featured Projects
-
-<!-- Add your projects here when you have them -->
-Coming soon! Currently working on exciting data science projects. Stay tuned! 🚀
-
----
 
 ## 📫 Let's Connect!
 
